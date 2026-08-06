@@ -1,2 +1,1 @@
-console.log("tugas repo");
-console.log("Ini adalah file untuk simulasi repository");
+console.log("tugas repo day 2");

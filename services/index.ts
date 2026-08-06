@@ -1,1 +1,1 @@
-console.log("index untuk services");
+console.log("index services")
